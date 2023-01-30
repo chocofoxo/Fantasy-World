@@ -1,6 +1,8 @@
 # Fantasy World
 Final project for Managing Data in C++ (ITP365) at USC. 
 
+This project uses the Stanford C++ Library, which can be downloaded here: https://cs.stanford.edu/people/eroberts/StanfordCPPLib/
+
 ### Goal: 
 Create a world of various creatures with unique rules tied to movement, reproduction, and interaction with other creatures. Determine which starting configuration of creatures leads to the most sustainable world, defined by the longest-lasting creature diversity.
 
